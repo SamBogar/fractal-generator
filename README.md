@@ -4,18 +4,12 @@
 This project should run on any Mac or Linux OS.
 
 Controls:
-
+'''
   zoom            - mouse wheel
-  
   move around map - arrow keys
-  
   color changes:
-  
     slow          - c / v
-    
     fast          - d / f
-    
   space           - pause fractal calculations
-  
   exit            - escape
-  
+'''
