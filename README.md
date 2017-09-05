@@ -1,4 +1,5 @@
 # fractal-generator
+![alt text](https://www.mcgoodwin.net/julia/mcmmand2.gif)
 ###### Like all the projects on this github, simply type 'make' into the command line while in the repository directory to compile
 
 This project should run on any Mac or Linux OS.
